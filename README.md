@@ -1,7 +1,14 @@
-# CPyProjectTemplate
-Put a description for your project here!
-This repo is a template VS code project for CircuitPython projects that automatically uploads your code to the board when you press F5. Requires F5Anything extension.
-## Use
+# 2022-2023 DE Engineering 3 - Robotic Cartesian Arm 
+## Anton Weder    
+## Sophie Chen
+###
+###
+
+
+## Project Description
+Our goal for this project is to create a working robotic arm which, when complete, will be able to use stepper motors and servos to succesfully move a writing utensil around on paper to write things down. 
+## Link to Project Planning
+The link to our project planning Google Doc can be found here: [link](https://docs.google.com/document/d/1Sfuq9OfWJm28hZP6IfdwjBN-oqiLh9iVy0cK-eDuprw/edit)
 ### Every new project:
 1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
 2. Click the big green Use This Template button at the top of this page.
