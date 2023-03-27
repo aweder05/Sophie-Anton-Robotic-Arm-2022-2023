@@ -7,6 +7,8 @@
 * Link to Project Planning
 * Proof of Concept 
    - Openbuilds
+* Commented Code
+* Problems
 
 ## Project Description
 Our goal for this project is to create a **working robotic arm** which, when complete, will be able to use **stepper motors** and servos to succesfully move a writing utensil around on paper to write things down. 
@@ -89,7 +91,9 @@ delay(500);
 Like every big project, we too encountered problems which were not very helpful at all in eventually coming to a finished project. Below is a more in-depth analysis about our problems, and where exactly it went wrong. 
 
 **Lack of adequate planning**
+
 We worked together to form a plan, but the project idea was overwhelming, and how to achieve our goal was an immense feat. We asked for help from Mr. H when Sophie came back from her trip, and he helped us create a project plan based on what we had. We followed through with the plan, and the machine worked efficiently, but wrapping our heads around how the mechanics would work took a lot of time from project building. Because we didn’t have a tangible plan from the beginning, precious time was taken from building a code. This caused us to scramble at the end of the project-building-time.
 
 **Lack of attendance due to scheduled conflicts**
+
 Neither partners were consistent by being in class due to extracurricular activities, which put a strain on the project-making timeline, further resulting in the tardy submission of the project.
