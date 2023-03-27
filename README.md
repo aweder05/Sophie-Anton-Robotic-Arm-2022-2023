@@ -37,13 +37,12 @@ Materials:
 For our proof concept, the materials used were:
 (The materials below were all later used in the final project)
 
-A 35 CM Openbuilds V-Slot Rail
-Openbuilds Solid V Wheel
-Openbuilds GT2-2M Timing Belt
-Openbuilds Stepper Motor V-Slot Gantry Plate
-Openbuilds 20mm V-Slot Gantry Plate
-Openbuilds Idler Pulley Plate
-Nema 17 Stepper Motor 
+* Openbuilds Solid V Wheel
+* Openbuilds GT2-2M Timing Belt
+* Openbuilds Stepper Motor V-Slot Gantry Plate
+* Openbuilds 20mm V-Slot Gantry Plate
+* Openbuilds Idler Pulley Plate
+* Nema 17 Stepper Motor 
 
 ## What is Openbuilds?
 
