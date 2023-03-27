@@ -32,6 +32,18 @@ Attached below are early sketches of our project planning:
 For our proof of concept, we decided to create something that might emulate what the final product would look like. To do this, we first looked at a few examples of 3D printers around the engineering lab to see what cartesian arms were made of. 
 After this, we thought why not just mimic how 3d printers work, but use it for our own purposes? Eventually we found out about Openbuilds, more on that later. We used openbuilds to recreate a single axis of movement using wheel bearings, a stepper motor and a carbon fiber belt drive chain. After wiring everything together, our completed proof of concept was able to move a plate on an axis using a stepper motor. Photos attached below.
 
+Materials:
+
+For our proof concept, the materials used were:
+(The materials below were all later used in the final project)
+
+A 35 CM Openbuilds V-Slot Rail
+Openbuilds Solid V Wheel
+Openbuilds GT2-2M Timing Belt
+Openbuilds Stepper Motor V-Slot Gantry Plate
+Openbuilds 20mm V-Slot Gantry Plate
+Openbuilds Idler Pulley Plate
+Nema 17 Stepper Motor 
 
 ## What is Openbuilds?
 
@@ -97,3 +109,18 @@ We worked together to form a plan, but the project idea was overwhelming, and ho
 **Lack of attendance due to scheduled conflicts**
 
 Neither partners were consistent by being in class due to extracurricular activities, which put a strain on the project-making timeline, further resulting in the tardy submission of the project.
+
+## Overall Building Materials
+
+Materials:
+
+
+
+A 35 CM Openbuilds V-Slot Rail
+Openbuilds Solid V Wheel
+Openbuilds GT2-2M Timing Belt
+Openbuilds Stepper Motor V-Slot Gantry Plate
+Openbuilds 20mm V-Slot Gantry Plate
+Openbuilds Idler Pulley Plate
+Nema 17 Stepper Motor 
+
