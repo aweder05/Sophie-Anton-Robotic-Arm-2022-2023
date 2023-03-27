@@ -19,3 +19,7 @@ For our proof of concept, we decided to create something that might emulate what
 After this, we thought why not just mimic how 3d printers work, but use it for our own purposes? Eventually we found out about Openbuilds, more on that later. We used openbuilds to recreate a single axis of movement using wheel bearings, a stepper motor and a carbon fiber belt drive chain. After wiring everything together, our completed proof of concept was able to move a plate on an axis using a stepper motor. Photos attached below.
 
 ## What is Openbuilds?
+
+OpenBuilds is an online community focused on open-source hardware and DIY machine building. It provides a platform for sharing designs, ideas, and resources for building anything from small robots to large CNC machines.
+
+![name](https://openbuilds.com/attachments/picture-assem2-jpg.10522/)
