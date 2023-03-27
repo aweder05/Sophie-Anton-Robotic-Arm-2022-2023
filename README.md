@@ -19,10 +19,12 @@ Attached below are early sketches of our project planning:
 #### Image 1: Overall Sketch
 
 ![name](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/PorjectPlanning.png?raw=true)
----
+
 ###### In the above image is a sketch of what we originally thought was going to be what our project looked like. It looks a bit like a 3D Printer
 ---
 ![name](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/ProjectPlaning.png?raw=true)
+
+###### In the above image is a diagram of how we were going to control the up and down pencil movemen on our finished product. Unfortunately, this design was never fully realized, and eventually we opted for something else. 
 
 ## Proof of Concept
 For our proof of concept, we decided to create something that might emulate what the final product would look like. To do this, we first looked at a few examples of 3D printers around the engineering lab to see what cartesian arms were made of. 
