@@ -113,13 +113,17 @@ Neither partners were consistent by being in class due to extracurricular activi
 
 Materials:
 
-
-
-A 35 CM Openbuilds V-Slot Rail
-Openbuilds Solid V Wheel
-Openbuilds GT2-2M Timing Belt
-Openbuilds Stepper Motor V-Slot Gantry Plate
-Openbuilds 20mm V-Slot Gantry Plate
-Openbuilds Idler Pulley Plate
-Nema 17 Stepper Motor 
-
+* A 35 CM Openbuilds V-Slot Rail
+* Openbuilds Solid V Wheel
+* Openbuilds GT2-2M Timing Belt
+* Openbuilds Stepper Motor V-Slot Gantry Plate
+* Openbuilds 20mm V-Slot Gantry Plate
+* Openbuilds Idler Pulley Plate
+* Nema 17 Stepper Motor 
+* 3.18 mm Cast Acrylic
+* Stepper motor mount
+* 3D Printed Parts
+* H-Bridge Brackets (Acrylic)
+* Multiple nuts, bolts, and screws
+* Arduino Uno
+* Breadboard, wires, resistors, etc. 
