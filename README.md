@@ -97,17 +97,12 @@ delay(500);
 }
 
 ```
-## Problems
 
-Like every big project, we too encountered problems which were not very helpful at all in eventually coming to a finished project. Below is a more in-depth analysis about our problems, and where exactly it went wrong. 
+## CAD
 
-**Lack of adequate planning**
+Because it took so long to originally finish our proof of concept, and because of the uncertainty with how to continue our project, our CAD work was slowed and we ended up just starting off with some basic 3D outlines. Eventually we started modeling the circular gear, using the original proof of concept build as a guideline for the rest of the project. First, we needed to model a base made out of acrylic to bring all the parts together. The plate was too big to be cut from a single sheet, so we sectioned it off and used H-brackets, also out of acrylic, to join the two plates together. After that was done, we needed to figure out a way in which the whole thing could spin from a central point, and how the gears on the Openbuilds slide could align perfectly with the circular teeth. The way that we accomplished this was by simply having two circular parts overlap, one attached to the base acrylic sheet, and one bolted to the openbuilds slide. Surprisingly, it worked quite well for such a simple design. The last CAD that we had to do consisted of the Way that the gears would be attached to the slide. The stepper motor was not centered on the slide, so the whole thing was  a bit off balance. To counteract this, we just screwed on another stepper motor to the slide and attached a 3D printed gear to it, just this time without a stepper motor. 
 
-We worked together to form a plan, but the project idea was overwhelming, and how to achieve our goal was an immense feat. We asked for help from Mr. H when Sophie came back from her trip, and he helped us create a project plan based on what we had. We followed through with the plan, and the machine worked efficiently, but wrapping our heads around how the mechanics would work took a lot of time from project building. Because we didn’t have a tangible plan from the beginning, precious time was taken from building a code. This caused us to scramble at the end of the project-building-time.
 
-**Lack of attendance due to scheduled conflicts**
-
-Neither partners were consistent by being in class due to extracurricular activities, which put a strain on the project-making timeline, further resulting in the tardy submission of the project.
 
 ## Overall Building Materials
 
@@ -126,4 +121,21 @@ Materials:
 * H-Bridge Brackets (Acrylic)
 * Multiple nuts, bolts, and screws
 * Arduino Uno
-* Breadboard, wires, resistors, etc. 
+* Breadboard, wires, resistors, etc.
+
+## Problems
+
+Like every big project, we too encountered problems which were not very helpful at all in eventually coming to a finished project. Below is a more in-depth analysis about our problems, and where exactly it went wrong. 
+
+**Lack of adequate planning**
+
+We worked together to form a plan, but the project idea was overwhelming, and how to achieve our goal was an immense feat. We asked for help from Mr. H when Sophie came back from her trip, and he helped us create a project plan based on what we had. We followed through with the plan, and the machine worked efficiently, but wrapping our heads around how the mechanics would work took a lot of time from project building. Because we didn’t have a tangible plan from the beginning, precious time was taken from building a code. This caused us to scramble at the end of the project-building-time.
+
+**Lack of attendance due to scheduled conflicts**
+
+Neither partners were consistent by being in class due to extracurricular activities, which put a strain on the project-making timeline, further resulting in the tardy submission of the project.
+
+## Reflection:
+
+Many mistakes were made along the journey of creating the handwriting robot arm. The poor planning and change of ideas resulted in the loss of time, further causing us to scramble to complete the project without a timely manner. One thing that my partner and I learned was to have a concrete, reliable plan created in the time given. Another factor that wasn’t helpful for the overall project was our change of plans, halfway through project-making time. Because of this, we had to reshape both the way we thought about the mechanics of the arm, as well as how we were going to complete the project (the CAD and the code). Attendance was a crucial factor in which we lacked; because both partners were committed to extra curricular activities, one person was always stranded to plan and build on their own, resulting in a motivation deficiency, and loss of time. We learned that there will be an output from the time we put into the project; when we worked outside of class to make up the time we had lost inside of class, there was a dramatic difference in the production of our project. When we didn’t put in the time we had missed from being absent, we would fall into the cycle of loss of incentive, lack of production, lack of incentive, lack of production. Many lessons were learned while making the handwriting robot; next project we will be sure to create a solidified plan, and commit time outside of school to avoid the cycle of unproductivity, and circumvent last minute scrambling at the end of the project.
+
