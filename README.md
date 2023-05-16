@@ -107,7 +107,7 @@ Because it took so long to originally finish our proof of concept, and because o
 ----
 
 ![CAD2023 4](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/e3e8f60a-7dd8-481a-be16-627af06f3840)
-###### This image displays a top-down view of our CAD. We decided to include this image to help the viewer understand the motion of our project, and the different lines and axis that it can cover. You can see how the circular shaped teeth of the gear help the center mechanism rotate 45 degrees in any direction, and how the center piece decides how close to the center and how far away from the gears the gantry plate is. 
+###### This image displays a top-down view of our CAD. We decided to include this image to help the viewer understand the motion of our project, and the different lines and axis that it can cover. You can see how the circular shaped teeth of the gear help the center mechanism rotate 45 degrees in any direction, and how the center piece decides how close to the center and how far away from the gears the gantry plate is. One thing about this image that does bother me a little bit is how the gears attached to the Stepper motors are not perfectly in line with the gears. When we fabricated all of our parts, they did fit fine, this must've been caused by a slight misstep during fastening.
 
 ## Overall Building Materials
 
