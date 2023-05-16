@@ -149,6 +149,13 @@ We worked together to form a plan, but the project idea was overwhelming, and ho
 
 Neither partners were consistent by being in class due to extracurricular activities, which put a strain on the project-making timeline, further resulting in the tardy submission of the project.
 
+## Camera Images 
+
+![IMG-7163](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/f64423bd-42f1-4b86-99ce-af2a3da17087)
+![IMG-7162](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/5f990c7a-0e74-414d-aff9-1c370af1eb0e)
+![IMG-7161](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/2cb39f52-e544-4e1b-9ec4-f20926ab5d53)
+![IMG-7164](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/4a9dcd8c-9edb-4899-9bc4-a0b229d5f628)
+
 ## Reflection:
 
 Many mistakes were made along the journey of creating the handwriting robot arm. The poor planning and change of ideas resulted in the loss of time, further causing us to scramble to complete the project without a timely manner. One thing that my partner and I learned was to have a concrete, reliable plan created in the time given. Another factor that wasn’t helpful for the overall project was our change of plans, halfway through project-making time. Because of this, we had to reshape both the way we thought about the mechanics of the arm, as well as how we were going to complete the project (the CAD and the code). Attendance was a crucial factor in which we lacked; because both partners were committed to extra curricular activities, one person was always stranded to plan and build on their own, resulting in a motivation deficiency, and loss of time. We learned that there will be an output from the time we put into the project; when we worked outside of class to make up the time we had lost inside of class, there was a dramatic difference in the production of our project. When we didn’t put in the time we had missed from being absent, we would fall into the cycle of loss of incentive, lack of production, lack of incentive, lack of production. Many lessons were learned while making the handwriting robot; next project we will be sure to create a solidified plan, and commit time outside of school to avoid the cycle of unproductivity, and circumvent last minute scrambling at the end of the project.
