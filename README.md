@@ -102,11 +102,12 @@ delay(500);
 
 Because it took so long to originally finish our proof of concept, and because of the uncertainty with how to continue our project, our CAD work was slowed and we ended up just starting off with some basic 3D outlines. Eventually we started modeling the circular gear, using the original proof of concept build as a guideline for the rest of the project. First, we needed to model a base made out of acrylic to bring all the parts together. The plate was too big to be cut from a single sheet, so we sectioned it off and used H-brackets, also out of acrylic, to join the two plates together. After that was done, we needed to figure out a way in which the whole thing could spin from a central point, and how the gears on the Openbuilds slide could align perfectly with the circular teeth. The way that we accomplished this was by simply having two circular parts overlap, one attached to the base acrylic sheet, and one bolted to the openbuilds slide. Surprisingly, it worked quite well for such a simple design. The last CAD that we had to do consisted of the Way that the gears would be attached to the slide. The stepper motor was not centered on the slide, so the whole thing was  a bit off balance. To counteract this, we just screwed on another stepper motor to the slide and attached a 3D printed gear to it, just this time without a stepper motor. 
 
-![CAD2023 2](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/82993f9d-efa7-4dd9-b60c-dd5aaa2518bd)
-![CAD2023 2](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/3cbe1a31-fe4c-42b5-8c09-2ef04f242da8)
-![CAD2023 2](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/c5b26456-74e7-431b-964f-b4621ceb6d16)
-![CAD2023 2](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/c6c340dd-3f20-450f-a142-3ca169861411)
+![CAD2023](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/6ac2ffb2-994b-40ad-a807-7dad97720611)
+###### The above image displays an Isometric veiw of our CAD for our Project. The only thing missing would be all of the wheels and such on the Gantry Plate on the beam to make the part slide. Other than that, this image is a good representation of what the whole project would look like, as you can see all of the individual parts. 
+----
 
+![CAD2023 4](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/e3e8f60a-7dd8-481a-be16-627af06f3840)
+###### This image displays a top-down view of our CAD. We decided to include this image to help the viewer understand the motion of our project, and the different lines and axis that it can cover. You can see how the circular shaped teeth of the gear help the center mechanism rotate 45 degrees in any direction, and how the center piece decides how close to the center and how far away from the gears the gantry plate is. 
 
 ## Overall Building Materials
 
