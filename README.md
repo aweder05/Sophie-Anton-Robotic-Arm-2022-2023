@@ -111,7 +111,7 @@ Because it took so long to originally finish our proof of concept, and because o
 ----
 
 ![CAD2023 2](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/6d52582b-5008-4bc4-a385-bf7b626a896e)
-###### This image provides valuable insight into how we attached the 
+###### This image provides valuable insight into how we attached the stepper motors to the openbuilds V-Slot rail. In this image, you can clearly see how the gears align with the 45 degree gear. 
 
 
 ## Overall Building Materials
