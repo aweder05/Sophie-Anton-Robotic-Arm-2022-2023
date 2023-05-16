@@ -151,10 +151,15 @@ Neither partners were consistent by being in class due to extracurricular activi
 
 ## Camera Images 
 
+----
 ![IMG-7163](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/f64423bd-42f1-4b86-99ce-af2a3da17087)
+----
 ![IMG-7162](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/5f990c7a-0e74-414d-aff9-1c370af1eb0e)
+----
 ![IMG-7161](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/2cb39f52-e544-4e1b-9ec4-f20926ab5d53)
+----
 ![IMG-7164](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/4a9dcd8c-9edb-4899-9bc4-a0b229d5f628)
+----
 
 ## Reflection:
 
