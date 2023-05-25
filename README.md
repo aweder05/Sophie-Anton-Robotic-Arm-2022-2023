@@ -20,7 +20,8 @@ Attached below are early sketches of our project planning:
 ---
 #### Image 1: Overall Sketch
 
-![name](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/PorjectPlanning.png?raw=true)
+<img src="[https://your-image-url.type](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/PorjectPlanning.png?raw=true)" width="500" height="500">
+![name](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/PorjectPlanning.png?raw=true | width=100)
 
 ###### In the above image is a sketch of what we originally thought was going to be what our project looked like. It looks a bit like a 3D Printer
 ---
