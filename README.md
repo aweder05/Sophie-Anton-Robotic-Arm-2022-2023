@@ -20,12 +20,12 @@ Attached below are early sketches of our project planning:
 ---
 #### Image 1: Overall Sketch
 
-<img src="[https://your-image-url.type](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/PorjectPlanning.png?raw=true)" width="500" height="500">
+<img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/PorjectPlanning.png?raw=true" width="500" height="500">
 
 
 ###### In the above image is a sketch of what we originally thought was going to be what our project looked like. It looks a bit like a 3D Printer
 ---
-![name](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/ProjectPlaning.png?raw=true)
+<img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/ProjectPlaning.png?raw=true" width="500">
 
 ###### In the above image is a diagram of how we were going to control the up and down pencil movemen on our finished product. Unfortunately, this design was never fully realized, and eventually we opted for something else. 
 
@@ -111,19 +111,23 @@ delay(500);
 
 Because it took so long to originally finish our proof of concept, and because of the uncertainty with how to continue our project, our CAD work was slowed and we ended up just starting off with some basic 3D outlines. Eventually we started modeling the circular gear, using the original proof of concept build as a guideline for the rest of the project. First, we needed to model a base made out of acrylic to bring all the parts together. The plate was too big to be cut from a single sheet, so we sectioned it off and used H-brackets, also out of acrylic, to join the two plates together. After that was done, we needed to figure out a way in which the whole thing could spin from a central point, and how the gears on the Openbuilds slide could align perfectly with the circular teeth. The way that we accomplished this was by simply having two circular parts overlap, one attached to the base acrylic sheet, and one bolted to the openbuilds slide. Surprisingly, it worked quite well for such a simple design. The last CAD that we had to do consisted of the Way that the gears would be attached to the slide. The stepper motor was not centered on the slide, so the whole thing was  a bit off balance. To counteract this, we just screwed on another stepper motor to the slide and attached a 3D printed gear to it, just this time without a stepper motor. 
 
-![CAD2023](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/6ac2ffb2-994b-40ad-a807-7dad97720611)
+<img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/6ac2ffb2-994b-40ad-a807-7dad97720611" width="500">
+
 ###### The above image displays an Isometric veiw of our CAD for our Project. The only thing missing would be all of the wheels and such on the Gantry Plate on the beam to make the part slide. Other than that, this image is a good representation of what the whole project would look like, as you can see all of the individual parts. 
 ----
 
-![CAD2023 4](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/e3e8f60a-7dd8-481a-be16-627af06f3840)
+<img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/e3e8f60a-7dd8-481a-be16-627af06f3840" height="300">
+
 ###### This image displays a top-down view of our CAD. We decided to include this image to help the viewer understand the motion of our project, and the different lines and axis that it can cover. You can see how the circular shaped teeth of the gear help the center mechanism rotate 45 degrees in any direction, and how the center piece decides how close to the center and how far away from the gears the gantry plate is. One thing about this image that does bother me a little bit is how the gears attached to the Stepper motors are not perfectly in line with the gears. When we fabricated all of our parts, they did fit fine, this must've been caused by a slight misstep during fastening.
 ----
 
 ![CAD2023 2](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/6d52582b-5008-4bc4-a385-bf7b626a896e)
+
 ###### This image provides valuable insight into how we attached the stepper motors to the openbuilds V-Slot rail. In this image, you can clearly see how the gears align with the 45 degree gear. 
 
+----
 
-## Overall Building Materials
+# **Overall Building Materials**
 
 Materials:
 
@@ -142,7 +146,7 @@ Materials:
 * Arduino Uno
 * Breadboard, wires, resistors, etc.
 
-## Problems
+# **Problems**
 
 Like every big project, we too encountered problems which were not very helpful at all in eventually coming to a finished project. Below is a more in-depth analysis about our problems, and where exactly it went wrong. 
 
@@ -154,7 +158,7 @@ We worked together to form a plan, but the project idea was overwhelming, and ho
 
 Neither partners were consistent by being in class due to extracurricular activities, which put a strain on the project-making timeline, further resulting in the tardy submission of the project.
 
-## Camera Images 
+## **Camera Images**
 
 ----
 ![IMG-7163](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/f64423bd-42f1-4b86-99ce-af2a3da17087)
