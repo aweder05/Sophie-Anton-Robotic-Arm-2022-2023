@@ -111,6 +111,8 @@ delay(500);
 
 Because it took so long to originally finish our proof of concept, and because of the uncertainty with how to continue our project, our CAD work was slowed and we ended up just starting off with some basic 3D outlines. Eventually we started modeling the circular gear, using the original proof of concept build as a guideline for the rest of the project. First, we needed to model a base made out of acrylic to bring all the parts together. The plate was too big to be cut from a single sheet, so we sectioned it off and used H-brackets, also out of acrylic, to join the two plates together. After that was done, we needed to figure out a way in which the whole thing could spin from a central point, and how the gears on the Openbuilds slide could align perfectly with the circular teeth. The way that we accomplished this was by simply having two circular parts overlap, one attached to the base acrylic sheet, and one bolted to the openbuilds slide. Surprisingly, it worked quite well for such a simple design. The last CAD that we had to do consisted of the Way that the gears would be attached to the slide. The stepper motor was not centered on the slide, so the whole thing was  a bit off balance. To counteract this, we just screwed on another stepper motor to the slide and attached a 3D printed gear to it, just this time without a stepper motor. 
 
+----
+
 <img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/6ac2ffb2-994b-40ad-a807-7dad97720611" width="500">
 
 ###### The above image displays an Isometric veiw of our CAD for our Project. The only thing missing would be all of the wheels and such on the Gantry Plate on the beam to make the part slide. Other than that, this image is a good representation of what the whole project would look like, as you can see all of the individual parts. 
@@ -161,13 +163,11 @@ Neither partners were consistent by being in class due to extracurricular activi
 ## **Camera Images**
 
 ----
-![IMG-7163](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/f64423bd-42f1-4b86-99ce-af2a3da17087)
-----
-![IMG-7162](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/5f990c7a-0e74-414d-aff9-1c370af1eb0e)
-----
-![IMG-7161](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/2cb39f52-e544-4e1b-9ec4-f20926ab5d53)
-----
-![IMG-7164](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/4a9dcd8c-9edb-4899-9bc4-a0b229d5f628)
+|  |  | |
+| ------------- | ------------- | ------------- |
+| <img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/5.25.1.jpg?raw=true" width="300">  | <img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/5.25.2.jpg?raw=true" width="500">  | <img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/5.25.3.jpg?raw=true" width="500"> |
+| The purpose of this image is to show how all of the electrronics were mounted onto the main plate of our arm  | This image perfectly shows how the gears were aligned onto our circular rack and pinion  | This image provides a side perspective on our project that shows how the Openbuilds V-Slot moves like a clock hand on the rack and pinion gear |
+| | | | 
 ----
 
 ## Reflection:
