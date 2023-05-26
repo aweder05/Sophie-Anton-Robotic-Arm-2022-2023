@@ -103,9 +103,9 @@ delay(500);
 
 ![wanted to kms](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/284fba07-54c9-4ba6-955f-db5b4ffeac1f)
 
-## Evidence 
+## **Evidence**
 
-![name](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/ezgif.com-video-to-gif.gif?raw=true)
+<img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/ezgif.com-crop.gif?raw=true" height="400">
 
 ## CAD
 
