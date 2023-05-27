@@ -101,11 +101,13 @@ delay(500);
 
 ## Code Reflection
 
-There wasn't a lot of time to complete the code in this project. Because of how long it took to build a proper plan, materialize our plans in Onshape, and fabricate/assemble, there wasn't time for coding. Unfortunately, we coded in Arduino, thinking that it would be faster and simpler to write. From this, we learned that
+There wasn't a lot of time to complete the code in this project. Because of how long it took to build a proper plan, materialize our plans in Onshape, and fabricate/assemble, there wasn't time for coding. Unfortunately, we coded in Arduino, thinking that it would be faster and simpler to write. From this, we learned that it's more important to complete tasks properly, and not cut corners. While we were able to get all parts of the robot arm moving, we weren't able to control the arm to write letters.
 
 ## Wiring
 
 ![wanted to kms](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/284fba07-54c9-4ba6-955f-db5b4ffeac1f)
+
+## Wiring Reflection
 
 As we were going through and wiring everything, we realized that it would be quite complicated to create a reliable wiring diagram for someone to use. The L2930s that you can see in between the breadboards and other components of the wiring diagram are actually DRV8833 Dual H-Bridge Motor Drivers. Since we used Tinkercad in the wiring diagram process, were were unable to 100% accurately display our type of motor driver. In Hindsight, from now on if we encounter a problem similar to the one described in Tinkercad, we will be using fritzing, as the online libraries and ability to import custom parts is built in already. 
 
