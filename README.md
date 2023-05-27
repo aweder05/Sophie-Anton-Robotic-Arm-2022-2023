@@ -107,6 +107,10 @@ There wasn't a lot of time to complete the code in this project. Because of how 
 
 ![wanted to kms](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/284fba07-54c9-4ba6-955f-db5b4ffeac1f)
 
+As we were going through and wiring everything, we realized that it would be quite complicated to create a reliable wiring diagram for someone to use. The L2930s that you can see in between the breadboards and other components of the wiring diagram are actually DRV8833 Dual H-Bridge Motor Drivers. Since we used Tinkercad in the wiring diagram process, were were unable to 100% accurately display our type of motor driver. In Hindsight, from now on if we encounter a problem similar to the one described in Tinkercad, we will be using fritzing, as the online libraries and ability to import custom parts is built in already. 
+
+----
+
 ## **Evidence**
 
 <img src="https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/blob/main/media/ezgif.com-crop.gif?raw=true" height="400">
