@@ -99,6 +99,10 @@ delay(500);
 
 ```
 
+## Code Reflection
+
+There wasn't a lot of time to complete the code in this project. Because of how long it took to build a proper plan, materialize our plans in Onshape, and fabricate/assemble, there wasn't time for coding. Unfortunately, we coded in Arduino, thinking that it would be faster and simpler to write. From this, we learned that
+
 ## Wiring
 
 ![wanted to kms](https://github.com/aweder05/Sophie-Anton-Robotic-Arm-2022-2023/assets/112981462/284fba07-54c9-4ba6-955f-db5b4ffeac1f)
